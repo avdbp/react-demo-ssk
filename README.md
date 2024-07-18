@@ -17,8 +17,6 @@ I have developed a demo for the company SSK developed in React with Kendo-React 
 
 1. Fork this repo
 2. Clone this repo
-
-$ cd portfolio-front
 $ npm install
 $ npm start
 
