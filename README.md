@@ -1,15 +1,24 @@
-# Response Email
+# React Demo
 
 ## About Me
-I am Alejandro van den Bussche, I have a brand called Rocket Media, with which I offer my services in Graphic Design, Web Design and Web Development. This particular project was designed and developed, for our client SSK, several emails to be used as a newsletter.
+I am Alejandro van den Bussche, I have a brand called Rocket Media, with which I offer my services in Graphic Design, Web Design and Web Development. This particular project was designed and developed, for our client SSK, a React Demo with Kendo-React.
 
 
 ## Deployment
 
-https://ssk-mails.vercel.app/
+https://react-demo-ssk.vercel.app/
 
 ## Work Structure
 
-We developed this project with HTML and CSS, using the table methodology, ensuring that this email can be viewed perfectly in the most used email clients, such as Gmail, Outlook, Mail, etc. The email is totally responsive, so it looks good adapted in its mobile format.
+I have developed a demo for the company SSK developed in React with Kendo-React in order to study the migration of its entire platform with this format that offers a better front-end, more pleasant and comfortable use for its clients.
 
+
+## Installation Guide
+
+1. Fork this repo
+2. Clone this repo
+
+$ cd portfolio-front
+$ npm install
+$ npm start
 
