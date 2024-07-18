@@ -1,0 +1,21 @@
+[
+ {
+   "NDB_NO": 9427,
+   "Rolling Total(6 Periods)": "Revenue",
+   "Pending Submission": "$32,667",
+   "Sales Aproval": "$18,500",
+   "Order Verification": "$10,455",
+   "Waiting Payment": "$63,967",
+   "Submitted for Payroll": "-",
+   "Pending Final Approval": "-",
+   "Waiting to be Paid": "-",
+   "Being Paid": "-",
+   "Archive": "-",
+   "Grand Total": "-"
+ },
+ {
+  "NDB_NO": 9427,
+  "Rolling Total(6 Periods)": "Commission"
+
+}
+]

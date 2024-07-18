@@ -1,0 +1,11 @@
+.separator-bar {
+  display: flex;
+  justify-content:left;
+  align-items: center;
+  background-color: #767d76;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  height: 15px;
+  font-size: 1.2rem;
+}
+

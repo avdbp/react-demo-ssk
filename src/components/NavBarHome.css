@@ -1,0 +1,36 @@
+.navbarhome {
+  text-align: left;
+  background-color: #070606; 
+  color: white; 
+  padding: 10px 10px;
+}
+
+.nav-linkhome {
+  font-size: 18px !important;
+  color: rgb(252, 253, 252);
+  text-decoration: none;
+  padding: 0 5px;
+  flex: 1; 
+  text-align: left; 
+  overflow: hidden; 
+  white-space: normal;
+
+}
+
+
+
+
+@media (max-width: 768px) {
+  .nav-linkhome {
+    font-size: 0.8rem;
+    padding: 0 5px; 
+  }
+}
+.navbarhome :hover {
+  text-decoration: none;
+  color: #0ba651; /* Cambia el color de fondo de las celdas al hacer hover */
+
+}
+
+
+

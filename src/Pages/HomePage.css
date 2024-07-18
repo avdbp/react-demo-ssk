@@ -1,0 +1,63 @@
+a {
+    cursor: pointer; /* Cambia el cursor a una mano */
+    text-decoration: none; /* Quita la subrayado predeterminado de los enlaces */
+    color: inherit; /* Hereda el color del texto */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Agrega un subrayado cuando el cursor está sobre el enlace */
+  }
+
+  .k-column-title{
+    height: auto;
+    white-space: pre-line !important;
+    text-align: center;
+    font-size: .8rem;
+  }
+  .k-grid-content .k-table-row  {
+    white-space: normal !important;
+    text-align: center;
+    overflow: scroll !important;
+  }
+  .k-grid {
+    overflow: scroll !important;
+  }
+
+  .k-grid .k-table-thead  {
+    background-color: rgb(207, 213, 208);
+    font-weight: 700;
+    color:rgb(100, 101, 103)
+    
+  }
+
+  .k-link a:hover {
+    color: rgb(2, 2, 2);
+    font-weight: 700;
+    
+  }
+  
+  .document {
+    width: 35px;
+    text-align: left;
+    align-items: left;
+  }
+  .k-tabstrip-items-wrapper .k-item {
+    color: rgb(150, 171, 155);
+    
+  }
+
+  .k-tabstrip-items-wrapper .k-item:hover {
+    color: rgb(11, 172, 43);
+  }
+  .k-input{
+    text-align: right;
+  }
+  .k-grid-content .k-table-row  {
+    text-align: left;
+
+  }
+
+  .tdimg {
+    width: 5px !important;
+  }
+  

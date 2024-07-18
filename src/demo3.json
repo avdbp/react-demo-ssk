@@ -1,0 +1,58 @@
+[
+  {
+    "Item No": "1",
+    "Item Category": "Hardware",
+    "ID": "AD_HOC",
+    "Equipment": "bizhub C750i",
+    "QTY": "1",
+    "Unit Price": "$7,921.13",
+    "Total Price": "$7,921.13",
+    "Dealer Cost": "$0.00",
+    "ShowImage": true
+  },
+  {
+   "Item No": "2",
+   "Item Category": "Hardware",
+   "ID": "AD_HOC",
+   "Equipment": "RU-519 Relay Unit",
+   "QTY": "1",
+   "Unit Price": "-",
+   "Total Price": "-",
+   "Dealer Cost": "$0.00",
+   "ShowImage": true
+ },
+ {
+   "Item No": "3",
+   "Item Category": "Hardware",
+   "ID": "AD_HOC",
+   "Equipment": "AU-205H IC Cars Reader",
+   "QTY": "1",
+   "Unit Price": "-",
+   "Total Price": "-",
+   "Dealer Cost": "$0.00",
+   "ShowImage": true
+ },
+ {
+   "Item No": "4",
+   "Item Category": "Hardware",
+   "ID": "AD_HOC",
+   "Equipment": "PK-524",
+   "QTY": "1",
+   "Unit Price": "-",
+   "Total Price": "-",
+   "Dealer Cost": "$0.00",
+   "ShowImage": true
+ },
+ {
+   "Item No": "5",
+   "Item Category": "Hardware",
+   "ID": "AD_HOC",
+   "Equipment": "PK-539",
+   "QTY": "1",
+   "Unit Price": "-",
+   "Total Price": "-",
+   "Dealer Cost": "$0.00",
+   "ShowImage": true
+ }
+ ]
+ 
